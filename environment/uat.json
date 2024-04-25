@@ -1,0 +1,9 @@
+{
+  "env": "uat",
+  "region": "eu-west-1",
+  "vpc-id": "vpc-0ef029079cb2f27af",
+  "subnet-id": "subnet-f46a6abd",
+  "iam-instance-profile": "EMR-EC2-Sandbox-Instance-Profile",
+  "instance-type": "t3.large",
+  "ssh-username": "ec2-user"
+}
